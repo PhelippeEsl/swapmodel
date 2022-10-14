@@ -4,7 +4,7 @@
 
 Trata-se de um extensão para o VSCode para abrir alguns arquivos estando em outro.
 
-Por exemplo, pode=se pular de um model para seu controller, contanto que os mesmo estejam nos caminhos padrão.
+Por exemplo, pode-se pular de um model para seu controller, contanto que os mesmo estejam nos caminhos padrão.
 
 ## Download
 
